@@ -8,6 +8,11 @@ Appointment cancellation and rescheduling
 Appointment history and notifications
 Secure authentication and authorization
 Responsive and user-friendly design
+
+
+
+
+
 Technologies:
 Front-end: React.js
 Back-end: Express.js, Node.js
